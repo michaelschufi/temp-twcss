@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    // If we disable this exclusion, TailwindCSS IntelliSense will work inside the "website" root.
+    "website/**": true
+  }
+}
